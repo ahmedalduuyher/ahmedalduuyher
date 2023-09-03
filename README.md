@@ -41,7 +41,7 @@ I'm an Electrical Engineering student at McMaster University. My current academi
 <img align="left" alt="LTSpice" width="70px" style="padding-right:10px;" src="https://djtnrpkvps28m.cloudfront.net/uploads/2020/11/LTSpice-logo.jpg"/>
 
 <br>
-
+<br>
 <br />
 
 #
