@@ -32,7 +32,7 @@ I'm an Electrical Engineering student at McMaster University. My current academi
 #
 ### 💻 Softwares and Tools
 
-
+</br>
 <img align="left" alt="PSpice" width="150px" style="padding-right:10px;" src="https://www.pspice.com/sites/default/files/pspice-for-ti-logo.png"/>
 <img align="left" alt="Keil" width="120px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/1200px-Keil_logo.svg.png"/>
 <img align="left" alt="WaveForms" width="100px" style="padding-right:10px;" src="https://cdn11.bigcommerce.com/s-7gavg/product_images/uploaded_images/waveforms-logo-300.png"/>
