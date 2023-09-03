@@ -2,7 +2,7 @@
 
 **`Electrical Engineering Co-op Student (Level III)`**
 
-I'm an Electrical Engineering student at McMaster University. My current academic goal is to build a solid foundation on various different subfields of electrical engineering such as digital communication systems, digital signal processing, image processing techniques, motor drives, antenna and wireless communication systems, computer communication networks, advanced internet communication protocols, embedded systems, computer architecture, and digital system design. My hope is to implement my knowledge and skills in a company that is working on cutting edge technology with the main goal of pushing the boundaries of human knowledge through scientific research and human ingenuity. I possess exceptional skills in programming languages such as Python, C, C++, Assembly, MATLAB, R, Javacript, and Verilog, as well as experience in software such as Autodesk Inventor, LTSpice, PSpice, Quartus II, Keil uVision, and many more for circuit design.
+I'm an Electrical Engineering student at McMaster University. My current academic goal is to build a solid foundation on various different subfields of electrical engineering such as digital communication systems, digital signal processing, image processing techniques, motor drives, antenna and wireless communication systems, computer communication networks, advanced internet communication protocols, embedded systems, computer architecture, and digital system design. My hope is to implement my knowledge and skills to push the boundaries of human knowledge through scientific research and human ingenuity. 
 
    <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
