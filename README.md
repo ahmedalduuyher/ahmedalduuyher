@@ -12,7 +12,7 @@ I'm an Electrical Engineering student at McMaster University. My current academi
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://victorious-captain-c72.notion.site/Hi-I-m-Ahmed-Alduuyher-e2bf95e4b1dc4cccb413ce1644b60bd1">
+      <a href="https://ahmedalduuyher.notion.site/Hi-I-m-Ahmed-Alduuyher-e2bf95e4b1dc4cccb413ce1644b60bd1?pvs=4">
          <img alt="Notion" title="Notion" src="https://img.shields.io/badge/Notion (Eng Projects)-black?style=for-the-badge&logo=Notion"/></a>
      <a href="https://www.instagram.com/ahmedalduuyher/">
          <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
