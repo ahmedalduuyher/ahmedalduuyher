@@ -1,4 +1,6 @@
+![pinpng com-banner-background-png-3667605](https://github.com/ahmedalduuyher/ahmedalduuyher/assets/103084119/706cc8f3-7cf0-438c-a646-ef67f7c517a7)
 # ⚡Ahmed Alduuyher
+
 
 **`Electrical Engineering Co-op Student (Level III)`**
 
@@ -52,5 +54,4 @@ I'm an Electrical Engineering student at McMaster University. My current academi
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedalduuyher&theme=gruvbox&border_radius=4.5) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalduuyher&theme=gruvbox&border_radius=4.5)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedalduuyher&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-#
+![pinpng com-banner-background-png-3667605](https://github.com/ahmedalduuyher/ahmedalduuyher/assets/103084119/bb6d7ee9-30fd-4bdd-8531-b1852a649844)
