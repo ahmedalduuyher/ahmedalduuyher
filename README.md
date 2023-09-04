@@ -50,5 +50,7 @@ I'm an Electrical Engineering student at McMaster University. My current academi
 ![Ahmed Alduuyher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalduuyher&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedalduuyher&theme=gruvbox&border_radius=4.5) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalduuyher&theme=gruvbox&border_radius=4.5)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedalduuyher&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #
