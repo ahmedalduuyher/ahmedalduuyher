@@ -9,11 +9,7 @@
 **`Electrical Engineering Co-op Student (Level III)`**
 
 I'm an Electrical Engineering student at McMaster University. My current academic goal is to build a solid foundation on various different subfields of electrical engineering such as digital communication systems, digital signal processing, image processing techniques, motor drives, antenna and wireless communication systems, computer communication networks, advanced internet communication protocols, embedded systems, computer architecture, and digital system design. My hope is to implement my knowledge and skills to push the boundaries of human knowledge through scientific research and human ingenuity. 
-
-
----
-### 📱 Socials
-   <p align="left">
+<p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://victorious-captain-c72.notion.site/Hi-I-m-Ahmed-Alduuyher-e2bf95e4b1dc4cccb413ce1644b60bd1">
@@ -21,8 +17,8 @@ I'm an Electrical Engineering student at McMaster University. My current academi
      <a href="https://www.instagram.com/ahmedalduuyher/">
          <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>  
-   
-#
+
+---
 
 ### 💻 Programming Languages
 
