@@ -8,7 +8,7 @@
 
 **`Electrical Engineering Co-op Student (Level III)`**
 
-I am currently pursuing a degree in Electrical Engineering at McMaster University. My primary academic goal is to establish a fundemental understanding across various subfields of electrical engineering such as digital communication systems, digital signal processing, image processing techniques, motor drives, antenna and wireless communication systems, computer communication networks, advanced internet communication protocols, embedded systems, computer architecture, and digital system design. My ultimate aspiration is to leverage my acquired knowledge and skills to push the boundaries of human knowledge through scientific research and human ingenuity. 
+I am currently pursuing a degree in Electrical Engineering at McMaster University. My primary academic goal is to establish a fundemental understanding of various subfields of electrical engineering such as digital communication systems, digital signal processing, image processing techniques, motor drives, antenna and wireless communication systems, computer communication networks, advanced internet communication protocols, embedded systems, computer architecture, and digital system design. My ultimate aspiration is to leverage my acquired knowledge and skills to push the boundaries of human knowledge through scientific research and human ingenuity. 
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
