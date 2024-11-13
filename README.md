@@ -3,12 +3,12 @@
   Hi there, my name is Ahmed
 </h1>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Google+Developer+Student+Club+Member;Professional+Code+Debugger" alt="Typing SVG" /></a> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Google+Developer+Student+Club+Member;Professional+Machine+Learning+Engineer" alt="Typing SVG" /></a> </h1>
 </p>
 
 **`Electrical Engineering Co-op Student (Level IV)`**
 
-I am currently pursuing a degree in Electrical Engineering at McMaster University. My primary academic goal is to establish a fundamental understanding of various computer and software engineering subfields such as digital communication systems, computer vision, machine learning, parallel programming, high-performance computing, operating systems, computer architecture, scientific computing, advanced internet communication systems, and more. My ultimate aspiration is to leverage my acquired knowledge and skills to push the boundaries of human knowledge through scientific research and human ingenuity. 
+I am currently pursuing a degree in Electrical Engineering at McMaster University, set to graduate in April 2025. My primary interests are in machine learning, deep learning, and cloud computing. I am also passionate about high-performance computing, computer architecture, and embedded systems, which are my secondary interests. My goal is to leverage my knowledge and skills to advance scientific research and push the boundaries of human innovation.
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
