@@ -3,7 +3,7 @@
   Hi there, my name is Ahmed
 </h1>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Google+Developer+Student+Club+Member;Professional+Machine+Learning+Engineer" alt="Typing SVG" /></a> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Google+Developer+Student+Club+Member;Machine+Learning+Engineer" alt="Typing SVG" /></a> </h1>
 </p>
 
 **`Electrical Engineering Co-op Student (Level IV)`**
