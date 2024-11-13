@@ -8,7 +8,7 @@
 
 **`Electrical Engineering Co-op Student (Level IV)`**
 
-I am currently pursuing a degree in Electrical Engineering at McMaster University, set to graduate in April 2025. My primary interests are in machine learning, deep learning, and cloud computing. I am also passionate about high-performance computing, computer architecture, and embedded systems, which are my secondary interests. My goal is to leverage my knowledge and skills to advance scientific research and push the boundaries of human innovation.
+I am currently pursuing a degree in Electrical Engineering at McMaster University, set to graduate in April 2025. My primary interests are in machine learning, deep learning, cloud computing, data science, and high-performance computing. My goal is to leverage my knowledge and skills to advance scientific research and push the boundaries of human innovation.
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
