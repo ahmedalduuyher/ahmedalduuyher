@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Machine+Learning+Engineer" alt="Typing SVG" /></a> </h1>
 </p>
 
-**`Electrical Engineering Co-op Student (Level IV)`**
+**`Electrical Engineering Student (Level IV)`**
 
 I am currently pursuing a degree in Electrical Engineering at McMaster University, set to graduate in April 2025. My primary interests are in machine learning, deep learning, cloud computing, data science, and high-performance computing. My goal is to leverage my knowledge and skills to advance scientific research and push the boundaries of human innovation.
 <p align="left">
