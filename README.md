@@ -3,19 +3,18 @@
   Hi there, my name is Ahmed
 </h1>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Student;Machine+Learning+Engineer" alt="Typing SVG" /></a> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Graduate;Embedded+Systems+Engineer" alt="Typing SVG" /></a> </h1>
 </p>
 
 **`Electrical Engineering Student (Level IV)`**
 
-I am currently pursuing a degree in Electrical Engineering at McMaster University, set to graduate in April 2025. My primary interests are in machine learning, deep learning, cloud computing, data science, and high-performance computing. My goal is to leverage my knowledge and skills to advance scientific research and push the boundaries of human innovation.
+I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering (Graduated April 2025). My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, and designing computationally efficient algorithms for machine learning, image processing, and digital signal processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
+
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://discordapp.com/users/261909022817517569">
          <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
-     <a href="https://www.instagram.com/ahmedalduuyher/">
-         <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>  
 
 ---
