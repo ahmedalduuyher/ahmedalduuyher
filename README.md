@@ -6,9 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Graduate;Embedded+Systems+Engineer" alt="Typing SVG" /></a> </h1>
 </p>
 
-**`Electrical Engineering Student (Level IV)`**
+**`Bachelor's degree in Electrical Engineering (Graduated April 2025)`**
 
-I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering (Graduated April 2025). My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, and designing computationally efficient algorithms for machine learning, image processing, and digital signal processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
+I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering. My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, and designing computationally efficient algorithms for machine learning, image processing, and digital signal processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
