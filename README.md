@@ -8,7 +8,7 @@
 
 **`Bachelor's degree in Electrical Engineering (Graduated April 2025)`**
 
-I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering. My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, Mechatronics, and designing computationally efficient, high performance algorithms for machine learning, image processing, and digital signal processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
+I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering. My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, Image Processing, and Digital Signal Processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
