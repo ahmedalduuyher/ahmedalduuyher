@@ -2,10 +2,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi there, my name is Ahmed
 </h1>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+page;Machine+Learning+Engineer;Data+Engineer+%26+Scientist" alt="Typing SVG" />
-</a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+page;Machine+Learning+Engineer;Data+Engineer+%26+Scientist" alt="Typing SVG" />
+  </a>
+</p>
 **Bachelor's degree in Electrical Engineering (Graduated April 2025)**
 
 Electrical Engineering graduate from McMaster University with a focus on machine learning and data-centric AI. Passionate about generative models and large language models (LLMs), with strengths in:
