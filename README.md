@@ -70,7 +70,7 @@ Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datase
 
 ### 💿 Hardware and Devices
 ![TI Microcontrollers](https://img.shields.io/badge/MSP432E401Y%20Microcontroller-lightcoral?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-darkgreen?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Analog Discovery 2](https://img.shields.io/badge/Analog%20Discovery%202-olivedrab?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-lightgray?style=for-the-badge)
