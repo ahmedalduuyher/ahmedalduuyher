@@ -49,6 +49,7 @@ Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datase
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 #
 
@@ -68,7 +69,8 @@ Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datase
 #
 
 ### 💿 Hardware and Devices
-![MSP432E401Y Microcontroller](https://img.shields.io/badge/MSP432E401Y%20Microcontroller-lightcoral?style=for-the-badge)
+![TI Microcontrollers](https://img.shields.io/badge/MSP432E401Y%20Microcontroller-lightcoral?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-darkgreen?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Analog Discovery 2](https://img.shields.io/badge/Analog%20Discovery%202-olivedrab?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-lightgray?style=for-the-badge)
