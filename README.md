@@ -16,7 +16,7 @@ Deeply passionate about pushing the boundaries of machine learning, with a stron
 - Accelerating deep learning workloads using multithreading and CUDA  
 - Designing and implementing deep learning models from scratch (RNNs, Transformers)
 
-Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datasets to leading LLM companies as part of the Data Operations & Project Management team. Continuously exploring applied ML, deep learning, and data engineering to stay sharp and up to date.
+Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datasets to leading LLM companies as part of the Data Operations team. Continuously exploring applied ML, deep learning, and data engineering to stay sharp and up to date.
 
 ---
 
