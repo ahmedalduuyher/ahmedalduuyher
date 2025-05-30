@@ -10,7 +10,7 @@
 
 **Bachelor's degree in Electrical Engineering (Graduated April 2025)**
 
-Deeply passionate about pushing the boundaries of machine learning and data-centric AI, with a strong focus on generative models and large language models (LLMs). Key strengths include:
+Deeply passionate about pushing the boundaries of machine learning, with a strong focus on generative models and large language models (LLMs). Key strengths include:
 
 - Curating and analyzing high-quality datasets for LLM training and fine-tuning  
 - Accelerating deep learning workloads using multithreading and CUDA  
