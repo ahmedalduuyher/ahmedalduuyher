@@ -10,7 +10,7 @@
 
 **Bachelor's degree in Electrical Engineering (Graduated April 2025)**
 
-Engineering graduate from McMaster University specializing in machine learning and data-centric AI, with a strong interest in generative models and large language models (LLMs). Strengths include:
+Deeply passionate about pushing the boundaries of machine learning and data-centric AI, with a strong focus on generative models and large language models (LLMs). Key strengths include:
 
 - Curating and analyzing high-quality datasets for LLM training and fine-tuning  
 - Accelerating deep learning workloads using multithreading and CUDA  
