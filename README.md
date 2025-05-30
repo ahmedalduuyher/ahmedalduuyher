@@ -18,14 +18,15 @@ Electrical Engineering graduate from McMaster University with a focus on machine
 
 Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datasets to leading LLM companies as part of the Data Operations & Project Management team. Continuously exploring applied ML, deep learning, and data engineering to stay sharp and up to date.
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/ahmedalduuyher/">
-         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://discordapp.com/users/261909022817517569">
-         <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   </p>  
-
 ---
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedalduuyher/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF6C37.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/ahmedalduuyher)
+[![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/261909022817517569)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedalduuyher/)
+
+#
 
 ### 💻 Programming Languages
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
