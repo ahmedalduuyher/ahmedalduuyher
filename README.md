@@ -3,12 +3,18 @@
   Hi there, my name is Ahmed
 </h1>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;McMaster+Engineering+Graduate;Embedded+Systems+Engineer" alt="Typing SVG" /></a> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;Machine+Learning+Engineer;Data+Engineer;" alt="Typing SVG" /></a> </h1>
 </p>
 
-**`Bachelor's degree in Electrical Engineering (Graduated April 2025)`**
+**Bachelor's degree in Electrical Engineering (Graduated April 2025)**
 
-I'm an Electrical Engineering graduate from McMaster University, specializing in Computer Engineering. My primary interests lie in low level software and Cyber-Physical systems, including Embedded Systems, Computer Architecture, Image Processing, and Digital Signal Processing. I also have experience in computer communication networks and designing internet communication applications. My goal is to apply my knowledge and skills to advance scientific research and drive innovation.
+Electrical Engineering graduate from McMaster University with a focus on machine learning and data-centric AI. Passionate about generative models and large language models (LLMs), with strengths in:
+
+- Curating and analyzing high-quality datasets for LLM training and fine-tuning  
+- Accelerating deep learning workloads using multithreading and CUDA  
+- Designing and implementing deep learning models from scratch (RNNs, Transformers)
+
+Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datasets to leading LLM companies as part of the Data Operations & Project Management team. Continuously exploring applied ML, deep learning, and data engineering to stay sharp and up to date.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/ahmedalduuyher/">
@@ -20,9 +26,8 @@ I'm an Electrical Engineering graduate from McMaster University, specializing in
 ---
 
 ### 💻 Programming Languages
-
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/R-lightgrey.svg?style=for-the-badge&logo=R&logoColor=276DC3)
 ![C](https://img.shields.io/badge/C-slateblue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-mediumvioletred?style=for-the-badge&logo=cplusplus)
@@ -34,34 +39,27 @@ I'm an Electrical Engineering graduate from McMaster University, specializing in
 
 ### 🛠️ Software and Tools
 
-![LTSpice](https://img.shields.io/badge/LTSpice-maroon?style=for-the-badge&logo=LTSpice)
-![Keil uVision](https://img.shields.io/badge/Keil%20uVision-mediumvioletred?style=for-the-badge&logo=arm&labelColor=gray)
-![Quartus II](https://img.shields.io/badge/Quartus%20II-mediumblue?style=for-the-badge&logo=intel&labelColor=blue)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![PSpice](https://img.shields.io/badge/PSpice-crimson?style=for-the-badge)
-![WaveForms](https://img.shields.io/badge/WaveForms-limegreen?style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-081C38.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
 
 #
 
 ### 📚 Libraries and Frameworks
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-orange?style=for-the-badge&logo=numpy&logoColor=white)
 ![Boost](https://img.shields.io/badge/Boost-blue?style=for-the-badge&logo=boost&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-purple?style=for-the-badge&logo=python&logoColor=white)
 ![Speechrecognition](https://img.shields.io/badge/Speechrecognition-magenta?style=for-the-badge&logo=python)
-![psyttx3](https://img.shields.io/badge/psyttx3-brown?style=for-the-badge&logo=python)
-![Google TTS](https://img.shields.io/badge/Google%20TTS-yellow?style=for-the-badge&logo=google)
-![win32gui](https://img.shields.io/badge/win32gui-black?style=for-the-badge)
 ![open3d](https://img.shields.io/badge/open3d-purple?style=for-the-badge&logo=python)
-![pyserial](https://img.shields.io/badge/pyserial-mediumseagreen?style=for-the-badge&logo=python)
+![Pyserial](https://img.shields.io/badge/pyserial-mediumseagreen?style=for-the-badge&logo=python)
 ![Pygame](https://img.shields.io/badge/pygame-rosybrown?style=for-the-badge&logo=python)
 
 #
