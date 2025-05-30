@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+page;Machine+Learning+Engineer;Data+Engineer+%26+Scientist" alt="Typing SVG" />
   </a>
 </p>
+
 **Bachelor's degree in Electrical Engineering (Graduated April 2025)**
 
 Electrical Engineering graduate from McMaster University with a focus on machine learning and data-centric AI. Passionate about generative models and large language models (LLMs), with strengths in:
