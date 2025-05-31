@@ -40,19 +40,6 @@ Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datase
 <br />
 #
 
-### 🛠️ Software and Tools
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-#
-
 ### 📚 Libraries and Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -66,16 +53,6 @@ Currently at **Surge AI**, where I help deliver high-quality RLHF and SFT datase
 ![Pyserial](https://img.shields.io/badge/pyserial-mediumseagreen?style=for-the-badge&logo=python)
 ![Pygame](https://img.shields.io/badge/pygame-rosybrown?style=for-the-badge&logo=python)
 
-#
-
-### 💿 Hardware and Devices
-![TI Microcontrollers](https://img.shields.io/badge/TI%20Microcontrollers-lightcoral?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Analog Discovery 2](https://img.shields.io/badge/Analog%20Discovery%202-olivedrab?style=for-the-badge)
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-lightgray?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-peru?style=for-the-badge)
-![PLD](https://img.shields.io/badge/PLD-black?style=for-the-badge)
 #
 
 ### 📊 Stats
